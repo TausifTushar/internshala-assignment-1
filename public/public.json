@@ -1,0 +1,364 @@
+[
+    {
+        "id": 1,
+      "courseName": "Introduction to Programming",
+      "instructors": ["Dr. Anderson", "Prof. Davis"],
+      "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+      "enrollmentStatus": "Open",
+      "courseDuration": "10 weeks",
+      "schedule": {
+        "startDateTime": "2023-02-01T09:00:00",
+        "endDateTime": "2023-04-05T11:00:00",
+        "days": ["Tuesday", "Thursday"],
+        "timeZone": "UTC"
+      },
+      "location": {
+        "city": "Example City",
+        "country": "Example Country"
+      },
+      "prerequisites": ["None"],
+      "syllabus": {
+        "week1": "Introduction to Programming Concepts",
+        "week2": "Variables and Data Types",
+        "week3": "Control Flow and Loops",
+        "week4": "Functions and Modules",
+        "week5": "Arrays and Lists",
+        "week6": "File Handling",
+        "week7": "Error Handling",
+        "week8": "Introduction to Algorithms",
+        "week9": "Recursion",
+        "week10": "Final Project"
+      }
+    },
+    {     "id": 2,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 3,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 4,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 5,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 6,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 7,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      { "id": 8,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 9,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 10,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 11,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      },
+      {  "id": 12,
+        "courseName": "Introduction to Programming",
+        "instructors": ["Dr. Anderson", "Prof. Davis"],
+        "description": "This course covers the basics of programming with a focus on problem-solving and algorithm development.",
+        "enrollmentStatus": "Open",
+        "courseDuration": "10 weeks",
+        "schedule": {
+          "startDateTime": "2023-02-01T09:00:00",
+          "endDateTime": "2023-04-05T11:00:00",
+          "days": ["Tuesday", "Thursday"],
+          "timeZone": "UTC"
+        },
+        "location": {
+          "city": "Example City",
+          "country": "Example Country"
+        },
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week1": "Introduction to Programming Concepts",
+          "week2": "Variables and Data Types",
+          "week3": "Control Flow and Loops",
+          "week4": "Functions and Modules",
+          "week5": "Arrays and Lists",
+          "week6": "File Handling",
+          "week7": "Error Handling",
+          "week8": "Introduction to Algorithms",
+          "week9": "Recursion",
+          "week10": "Final Project"
+        }
+      }
+    
+  ]
